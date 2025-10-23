@@ -18,15 +18,15 @@
 
 ## 🎯 About Me
 
-I'm a **Data Engineer** with solid experience in developing enterprise-level ETL/ELT pipelines, modern data architectures, and Business Intelligence solutions. I specialize in cloud technologies like **Databricks**, **Snowflake**, **Apache Airflow**, **dbt**, and **Delta Lake**.
+I'm a **Data Engineer** passionate about building scalable data platforms and transforming raw data into actionable business insights. With expertise in modern data stack technologies, I specialize in designing end-to-end data pipelines that power data-driven decision making.
 
 ### 🌟 My Strengths
-- **Data Lakehouse Architectures** with Medallion patterns (Bronze-Silver-Gold)
-- **Workflow Orchestration** with Apache Airflow and Astronomer Cosmos
-- **Data Transformation** with dbt and advanced SQL
-- **Real-time Data Streaming** with Apache Kafka
-- **Visualization** with Power BI and BI tools
-- **Containerization** with Docker and cloud deployment
+- **Modern Data Architecture**: Designing Lakehouse architectures with Medallion patterns (Bronze-Silver-Gold)
+- **Cloud-Native Solutions**: Building scalable pipelines on Databricks, Snowflake, and Azure
+- **Workflow Orchestration**: Implementing robust ETL/ELT processes with Apache Airflow and Astronomer Cosmos
+- **Real-time Processing**: Developing streaming solutions with Apache Kafka and real-time analytics
+- **Business Intelligence**: Creating interactive dashboards and reports with Power BI
+- **Containerization**: Docker and cloud deployment
 
 ---
 
@@ -35,25 +35,51 @@ I'm a **Data Engineer** with solid experience in developing enterprise-level ETL
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
-### **Cloud Platforms & Data Warehouses**
+### **Cloud & Data Platforms**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+### **Data Processing & Analytics**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-0C7BDC?style=flat&logo=apache-arrow&logoColor=white)
 
-### **Orchestration Tools**
+### **Orchestration & Workflow Management**
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Astronomer](https://img.shields.io/badge/Astronomer-000000?style=flat&logo=astronomer&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
+### **Data Ingestion & Streaming**
+![Data Load Tool](https://img.shields.io/badge/Data%20Load%20Tool-FF6B6B?style=flat&logo=data&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
 ### **Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-009639?style=flat&logo=delta&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-009639?style=flat&logo=apache&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6B6B?style=flat&logo=clickhouse&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-FF6B6B?style=flat&logo=minio&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat&logo=sqlalchemy&logoColor=white)
+
+
+### **Query Engines & Catalogs**
+![Trino](https://img.shields.io/badge/Trino-FF6B6B?style=flat&logo=trino&logoColor=white)
+![Dremio](https://img.shields.io/badge/Dremio-00A9CE?style=flat&logo=data&logoColor=white)
+![Nessie](https://img.shields.io/badge/Nessie-FF6B6B?style=flat&logo=data&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat&logo=databricks&logoColor=white)
+
+### **Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### **BI & Visualization**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ### **DevOps & Containerization**
@@ -106,6 +132,8 @@ I'm a **Data Engineer** with solid experience in developing enterprise-level ETL
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-0178D4?style=flat&logo=data&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Comprehensive data engineering solution with orchestration and visualization**
@@ -120,10 +148,57 @@ I'm a **Data Engineer** with solid experience in developing enterprise-level ETL
 
 ---
 
+### 🏛️ **Open Source Lakehouse with Medallion Architecture**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-0C7BDC?style=flat&logo=apache-arrow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-009639?style=flat&logo=apache&logoColor=white)
+![Nessie](https://img.shields.io/badge/Nessie-FF6B6B?style=flat&logo=nessie&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-FF6B6B?style=flat&logo=trino&logoColor=white)
+![Dremio](https://img.shields.io/badge/Dremio-00A9CE?style=flat&logo=dremio&logoColor=white)
+
+**Complete Lakehouse implementation with Bronze-Silver-Gold medallion pattern**
+
+- ✅ Designed **full Lakehouse architecture** using Stack Overflow dataset with Medallion structure
+- ✅ Implemented **Bronze-Silver-Gold** layers with Apache Iceberg and Nessie catalog
+- ✅ Created **two pipeline versions**: Full (2019-2020) and Light (2020-2021) for different use cases
+- ✅ Built **analytical models** in Gold layer: user engagement, vote stats, trending topics
+- ✅ Integrated **multiple query engines**: Trino for Silver, Dremio for Gold layer analytics
+- ✅ Orchestrated with **Apache Airflow** for automated data processing workflows
+
+[📁 View Project](https://github.com/caroldvarela/opensource-lakehouse-medallion)
+
+---
+
+### 🌊 **Data Ingestion Pipeline: HTTP → MinIO → Iceberg → Azure → ClickHouse**
+![Data Load Tool](https://img.shields.io/badge/Data%20Load%20Tool-FF6B6B?style=flat&logo=data&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-0C7BDC?style=flat&logo=apache-arrow&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-009639?style=flat&logo=apache&logoColor=white)
+![Nessie](https://img.shields.io/badge/Nessie-FF6B6B?style=flat&logo=data&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-FF6B6B?style=flat&logo=minio&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6B6B?style=flat&logo=clickhouse&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Comprehensive data engineering pipeline with modern data lake formats**
+
+- ✅ Implemented complete **data ingestion pipeline** processing NYC taxi trip data (3.4M+ records)
+- ✅ Built **multi-stage architecture**: HTTP → MinIO → Iceberg → Azure → ClickHouse
+- ✅ Integrated **Apache Iceberg** with Nessie catalog for ACID transactions and schema evolution
+- ✅ Achieved **high performance**: 1.2s HTTP ingestion, 2.9s ClickHouse loading
+- ✅ Containerized with **Docker Compose** for reproducible deployments
+
+[📁 View Project](https://github.com/caroldvarela/http-minio-iceberg-azure-clickhouse)
+
+---
+
 ### 🎵 **Music Analytics Platform - Spotify & Grammy Awards**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat&logo=sqlalchemy&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat&logo=google-drive&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **ETL pipeline and music industry analysis**
 
@@ -140,6 +215,9 @@ I'm a **Data Engineer** with solid experience in developing enterprise-level ETL
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat&logo=sqlalchemy&logoColor=white)
 
 **ML pipeline with streaming and prediction storage**
 
@@ -152,9 +230,11 @@ I'm a **Data Engineer** with solid experience in developing enterprise-level ETL
 
 ---
 
-### 📊 **ETL Workshop - Candidate Analysis**
+### 📊 **Candidate Analysis**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat&logo=sqlalchemy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Data migration and exploratory analysis project**
