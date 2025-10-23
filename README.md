@@ -6,12 +6,12 @@
 
 *Transforming complex data into actionable insights for enterprise decision-making*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carol-varela)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carol.varela@uao.edu.co)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caroldvarela)
-
 **📍 Location:** Colombia 🇨🇴
 
+**📧 Email:** [carol.varela005@gmail.com](mailto:carol.varela005@gmail.com)  
+
+**💼 LinkedIn:** [linkedin.com/in/carol-varela](https://linkedin.com/in/carol-varela)
+  
 </div>
 
 ---
