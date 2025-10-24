@@ -65,6 +65,7 @@ I'm a **Data Engineer** passionate about building scalable data platforms and tr
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FF6B6B?style=flat&logo=clickhouse&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-FF6B6B?style=flat&logo=minio&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=flat&logo=sqlalchemy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
 ### **Query Engines & Catalogs**
